@@ -531,12 +531,12 @@ Config.Stores = {
 }
 
 Config.ClothingRooms = {
-    [1] = {requiredJob = "police", coords = vector3(454.43, -988.85, 30.69), cameraLocation = vector4(454.42, -990.52, 30.69, 358.48)},
+    [1] = {requiredJob = "police", coords = vector3(462.44, -996.47, 30.69), cameraLocation = vector4(458.48,  -998.83,  30.69,  196.36)}, --LSPD
     [2] = {requiredJob = "ambulance", coords = vector3(318.15, -599.35, 43.29), cameraLocation = vector4(318.15, -599.35, 43.29, 332.09)}, -- Right double door in Hospital Map that is on QBCore GitHub
-    [3] = {requiredJob = "police", coords = vector3(314.76, 671.78, 14.73), cameraLocation = vector4(317.62,  671.86,  14.73,  91.53)},
+    [3] = {requiredJob = "police", coords = vector3(381.15, -1594.21, 2932), cameraLocation = vector4(383.36,  -1599.1,  29.32,  139.34)}, --LSCSO
     [4] = {requiredJob = "ambulance", coords = vector3(338.70, 659.61, 14.71), cameraLocation = vector4(339.27,  661.63,  14.71,  315.5)},    
     [5] = {requiredJob = "ambulance", coords = vector3(-1098.45, 1751.71, 23.35), cameraLocation = vector4(-1097.15, 1750.19,  23.35, 38.70)},    
-    [6] = {requiredJob = "police", coords = vector3(-77.59, -129.17, 5.03), cameraLocation = vector4(-80.36,  -130.76,  5.03,  300.44)},
+    [6] = {requiredJob = "police", coords = vector3(624.55, -3.71, 76.63), cameraLocation = vector4(624.55, -3.71, 76.63, 91.82)}, --SAHP
 }
 
 Config.Outfits = {
